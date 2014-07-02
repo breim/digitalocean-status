@@ -71,8 +71,8 @@ $upload_diario = $servidorArray[4];
 
 $servidorMemoriaArray1[10];
 
-mysql_connect("DATABSE", "LOGIN", "SENHA") or die(mysql_error());
-mysql_select_db("status_sys") or die(mysql_error());
+mysql_connect("IP DO SERVIDOR", "LOGIN", "SENHA") or die(mysql_error());
+mysql_select_db("BANCO DE DADOS") or die(mysql_error());
 
 
 
