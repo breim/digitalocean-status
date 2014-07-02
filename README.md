@@ -43,4 +43,4 @@ Ele irá gravar a cada 5 minutos na tabela do seu banco de dados, chamando atrav
 
 
 
-Be Happy;
+Be Happy :)
