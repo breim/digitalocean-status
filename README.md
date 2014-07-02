@@ -8,11 +8,11 @@ Ok ok, tá uma porcaria o arquivo status.php(fiz em 20minutos), se quiser contri
 
 Instale as Bibliotecas necessárias
 
-  $sudo apt-get install vnstat
+    $sudo apt-get install vnstat
   
-  $sudo vnstat -u -i eth0
+    $sudo vnstat -u -i eth0
   
-  $sudo vnstat -i eth0
+    $sudo vnstat -i eth0
   
 
 
@@ -30,7 +30,7 @@ Não esqueça de editar o arquivo status.php, a sua conexão do banco de dados.
 
 Agora configure sua crontab
 
-  $crontab -e
+    $crontab -e
   
   
 Adicione a seguinte linha babalú
