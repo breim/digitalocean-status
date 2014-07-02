@@ -9,11 +9,14 @@ Ok ok, tá uma porcaria o arquivo status.php(fiz em 20minutos), se quiser contri
 Instale as Bibliotecas necessárias
 
   $sudo apt-get install vnstat
+  
   $sudo vnstat -u -i eth0
+  
   $sudo vnstat -i eth0
+  
 
 
-  $sudo apt-get install curl
+    $sudo apt-get install curl
 
 
 
